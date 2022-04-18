@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Counting_using_Hooks/static/css/main.e7468afd.css",
+    "main.js": "/Counting_using_Hooks/static/js/main.d25cab8c.js",
+    "index.html": "/Counting_using_Hooks/index.html",
+    "main.e7468afd.css.map": "/Counting_using_Hooks/static/css/main.e7468afd.css.map",
+    "main.d25cab8c.js.map": "/Counting_using_Hooks/static/js/main.d25cab8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7468afd.css",
+    "static/js/main.d25cab8c.js"
+  ]
+}
